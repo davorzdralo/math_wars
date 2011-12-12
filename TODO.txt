@@ -1,0 +1,3 @@
+- dodati zvuk, muziku i efekte
+- velika bomba koja ubija sve neprijatelje
+- particle trag koji ostaje iza igraca
